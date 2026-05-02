@@ -1,0 +1,42 @@
+{
+  "start_time": "2016-09-27",
+  "end_time": "2026-04-30",
+  "assets": [
+    {
+      "name": "大成中证红利指数A",
+      "code": "090010",
+      "type": "OF",
+      "risk_weight": 0.125
+    },
+    {
+      "name": "博时标普500ETF（QDII）",
+      "code": "513500",
+      "type": "ETF",
+      "risk_weight": 0.125
+    },
+    {
+      "name": "国泰上证5年期国债ETF",
+      "code": "511010",
+      "type": "ETF",
+      "risk_weight": 0.1875
+    },
+    {
+      "name": "易方达中债7-10年期国开行债券指数A",
+      "code": "003358",
+      "type": "OF",
+      "risk_weight": 0.1875
+    },
+    {
+      "name": "华安易富黄金ETF",
+      "code": "518880",
+      "type": "ETF",
+      "risk_weight": 0.1875
+    },
+    {
+      "name": "国泰大宗商品配置（QDII-LOF-FOF）A",
+      "code": "160216",
+      "type": "LOF",
+      "risk_weight": 0.1875
+    }
+  ]
+}
